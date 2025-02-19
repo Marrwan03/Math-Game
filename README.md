@@ -9,7 +9,7 @@ this game doesn't have features but it's good for  anyone want to keep practise 
 
 i used C++ to build this game
 
-i was face some problem like Create question so i choice arr datastructure to save questions and the solutions
+i faced some problem like Create question so i choice arr datastructure to save questions and the solutions
 
 i build this game when i was learn C++, so my goal in future for this game to build in C# and set Timer and Record for anyone wants to test
 

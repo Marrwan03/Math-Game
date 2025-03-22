@@ -12,4 +12,7 @@ and using DataStructure.
 
 🗒️ i build this game when i was learn C++, so my goal in future for this game to build in C# and set Timer and Record for anyone wants to test.
 
+🔍 Source code:
+https://github.com/Marrwan03/Math-Game
+
 📧 in the end if you want some details about this game ask me.

@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">This game doesn't have features but it's good for anyone want to keep practise in function and procedure and using the right datastructure,This game inculde many enum like enum for level and for operation.</h4>
+<h4 align="left">This game doesn't have features but it's good for anyone want to keep practice in function and procedure and using the right datastructure,This game inculde many enum like enum for level and for operation.</h4>
 
 ###
 

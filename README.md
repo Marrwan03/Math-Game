@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">I build this game as a task to practise by function and procedure and using DataStructure.</h4>
+<h4 align="left">I build this game as a task to practice by function and procedure and using DataStructure.</h4>
 
 ###
 

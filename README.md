@@ -1,8 +1,8 @@
-<h1 align="center">Math  Game</h1>
+<h1 align="center">🧮Math  Game</h1>
 
 ###
 
-<h2 align="left">Elevator Pitch:</h2>
+<h2 align="left">👀Elevator Pitch:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">The goal and the problem it solves:</h2>
+<h2 align="left">🎯The goal and the problem it solves:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Target group:</h2>
+<h2 align="left">📢Target group:</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">Features:</h2>
+<h2 align="left">🛠️Features:</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<h2 align="left">Techniques and tools used:</h2>
+<h2 align="left">🧰Techniques and tools used:</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<h2 align="left">Challenges and how to overcome them:</h2>
+<h2 align="left">🧱Challenges and how to overcome them:</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">Future plans:</h2>
+<h2 align="left">🪄Future plans:</h2>
 
 ###
 
@@ -64,7 +64,7 @@
 
 <br clear="both">
 
-<h2 align="left">End message:</h2>
+<h2 align="left">✉️End message:</h2>
 
 ###
 
